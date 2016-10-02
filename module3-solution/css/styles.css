@@ -1,0 +1,16 @@
+body {background-color: #FF8C00}
+
+.navbar-default {
+    background-color: #FF7F50;
+}
+
+#food-llc-menu-dropdown li a {
+   background-color:#D2691E;
+   border: 1px solid black;
+   color:white;
+}
+
+.foodllc-menu {
+    background-color: gray;
+    margin: 15px;
+}
